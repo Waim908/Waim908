@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Profile views counter](https://komarev.com/ghpvc/?username=Waim908&&style=flat-square)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Waim908)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Waim908)
