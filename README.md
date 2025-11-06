@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Waim908&&style=flat-square)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waim908)](https://github.com/anuraghazra/github-readme-stats
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Waim908)
