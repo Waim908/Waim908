@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+bilibili:
+
+[Waim放弃](https://space.bilibili.com/483380143)
+
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waim908&show_icons=true&theme=tokyonight)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Waim908&&style=flat-square)
