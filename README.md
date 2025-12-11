@@ -17,8 +17,14 @@ bilibili:
 
 [Waim放弃](https://space.bilibili.com/483380143)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waim908&show_icons=true&theme=tokyonight)
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+  </p>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Waim908&&style=flat-square)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Waim908)
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
