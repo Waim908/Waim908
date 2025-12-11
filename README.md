@@ -17,11 +17,6 @@ bilibili:
 
 [Waim放弃](https://space.bilibili.com/483380143)
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
-  </p>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Waim908&&style=flat-square)
 
