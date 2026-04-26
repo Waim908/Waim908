@@ -10,18 +10,52 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⡠ Fun fact: ...
 -->
 
-bilibili:
+<!-- 一句话介绍 / B 站链接 -->
+<p align="center">
+  📺 Bilibili：<a href="https://space.bilibili.com/483380143">Waim放弃</a>
+</p>
 
-[Waim放弃](https://space.bilibili.com/483380143)
+---
 
+<!-- 贪吃蛇贡献动画（支持明/暗主题自动切换） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waim908/Waim908/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waim908/Waim908/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Waim908/Waim908/output/github-snake.svg" />
+</picture>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Waim908&&style=flat-square)
+---
 
+### 📊 GitHub 数据卡片
+
+<!-- Stats 卡片 -->
+<img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=Waim908&hide=contribs,prs&count_private=true&show_icons=true" />
+
+<!-- Top Languages（紧凑布局） -->
+<img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waim908&layout=compact&langs_count=8" />
+
+<br clear="both"/>
+
+---
+
+<!-- 技能图标（居中展示） -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode,linux" />
+  </a>
+</p>
+
+---
+
+### 🎯 小装饰
+
+<!-- 访问人数 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Waim908&style=flat-square" alt="Profile views counter" />
+</p>
+
+<!-- 活动图 -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Waim908)
-
-![Waim908's github stats](https://github-readme-stats.vercel.app/api?username=Waim908&hide=contribs,prs&count_private=true&show_icons=true)
-
- <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
