@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub 数据卡片
-
 <!-- Stats 卡片 -->
 <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=Waim908&hide=contribs,prs&count_private=true&show_icons=true" />
 
@@ -49,8 +47,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-### 🎯 小装饰
 
 <!-- 访问人数 -->
 <p align="center">
