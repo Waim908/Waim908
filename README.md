@@ -29,13 +29,17 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- Stats 卡片 -->
-<img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=Waim908&hide=contribs,prs&count_private=true&show_icons=true" />
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="55%" src="https://card.laik.cc.cd/api?username=Waim908&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en" alt="My GitHub stats" />
+</a>
+</br>
 
-<!-- Top Languages（紧凑布局） -->
-<img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waim908&layout=compact&langs_count=8" />
-
-<br clear="both"/>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="55%" src="https://card.laik.cc.cd/api/top-langs/?username=Waim908&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&langs_count=10" alt="Top Languages" />
+</a>
+</br>
 
 ---
 
