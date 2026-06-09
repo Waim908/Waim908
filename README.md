@@ -13,14 +13,12 @@ Here are some ideas to get you started:
 - ⡠ Fun fact: ...
 -->
 
-<!-- 一句话介绍 / B 站链接 -->
 <p align="center">
-  📺 Bilibili：<a href="https://space.bilibili.com/483380143">Waim放弃</a>
+  📺 Bilibili：<a href="https://space.bilibili.com/483380143"><strong>Waim放弃</strong></a>
 </p>
 
 ---
 
-<!-- 贪吃蛇贡献动画（支持明/暗主题自动切换） -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waim908/Waim908/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waim908/Waim908/output/github-contribution-grid-snake.svg" />
@@ -29,33 +27,26 @@ Here are some ideas to get you started:
 
 ---
 
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="55%" src="https://card.laik.cc.cd/api?username=Waim908&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en" alt="My GitHub stats" />
-</a>
-</br>
-
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="55%" src="https://card.laik.cc.cd/api/top-langs/?username=Waim908&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&langs_count=10" alt="Top Languages" />
-</a>
-</br>
+<p align="center">
+  <img src="https://card.laik.cc.cd/api?username=Waim908&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en" alt="My GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://card.laik.cc.cd/api/top-langs/?username=Waim908&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&langs_count=10" alt="Top Languages" />
+</p>
 
 ---
 
-<!-- 技能图标（居中展示） -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode,linux" alt="Technical Skills" />
   </a>
 </p>
 
 ---
 
-<!-- 访问人数 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Waim908&style=flat-square" alt="Profile views counter" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waim908&theme=rose_pine" alt="Ashutosh's github activity graph" />
 </p>
-
-<!-- 活动图 -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Waim908)
