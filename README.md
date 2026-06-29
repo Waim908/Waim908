@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
 [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/torvalds)](https://githubroast.dev/u/torvalds)
-</p>
 
-<p align="center">
 [![GitHub Roast](https://githubroast.dev/api/card/Waim908?theme=dark)](https://githubroast.dev/u/Waim908)
-</p>
+
 
 ---
 
