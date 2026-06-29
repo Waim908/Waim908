@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/torvalds)](https://githubroast.dev/u/torvalds)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waim908/Waim908/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waim908/Waim908/output/github-contribution-grid-snake.svg" />
