@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  📺 Bilibili：<a href="https://space.bilibili.com/483380143"><strong>Waim放弃</strong></a>
+  Bilibili：<a href="https://space.bilibili.com/483380143"><strong>Waim放弃</strong></a>
+  Blog:<a href="https://blog.waim.cc.cd/"><strong>My Blog</strong></a>
 </p>
 
 ---
