@@ -18,12 +18,7 @@ Here are some ideas to get you started:
   Blog:<a href="https://blog.waim.cc.cd/"><strong>My Blog</strong></a>
 </p>
 
----
-
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/Waim908)](https://githubroast.dev/u/Waim908)
-
-[![GitHub Roast](https://githubroast.dev/api/card/Waim908?theme=dark)](https://githubroast.dev/u/Waim908)
-
+[afadian](https://afdian.com/a/waim_donate)
 
 ---
 
