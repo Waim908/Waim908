@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   Blog:<a href="https://blog.waim.cc.cd/"><strong>My Blog</strong></a>
 </p>
 
-[afadian](https://afdian.com/a/waim_donate)
+[aifadian](https://afdian.com/a/waim_donate)
 
 ---
 
@@ -38,18 +38,3 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode,linux" alt="Technical Skills" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Waim908&style=flat-square" alt="Profile views counter" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waim908&theme=rose_pine" alt="Ashutosh's github activity graph" />
-</p>
