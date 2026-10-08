@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Waim908</h1>
-  <p><strong>Bilibili：Waim放弃 · Blog：My Blog</strong></p>
+  <p>
+    <strong>Bilibili：</strong><a href="https://space.bilibili.com/483380143">Waim放弃</a>
+    · <strong>Blog：</strong><a href="https://blog.waim.cc.cd/">My Blog</a>
+  </p>
 
   <a href="https://space.bilibili.com/483380143">
     <img src="https://img.shields.io/badge/Bilibili-Waim放弃-00A1D6?logo=bilibili&logoColor=white" alt="Bilibili" />
@@ -20,6 +23,17 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waim908/Waim908/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waim908/Waim908/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Waim908/Waim908/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠 技术栈 & 工具</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,linux,vscode,arch,android,git&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,linux,vscode,arch,android,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,vscode,arch,android,git&theme=light" alt="Tech Stack" />
   </picture>
 </div>
 
